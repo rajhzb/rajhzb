@@ -1,3 +1,7 @@
+# Hi, I'm Raj! 👋
+## 🚀 About Me
+I'm a full stack developer...
+
 <!----------------------------------- Tech Stack Section ------------------------------------>
 <h2>Tech Stack</h2>
 <h3>Languages</h3>
@@ -10,4 +14,8 @@
     <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="dart" />
     <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" alt="kotlin" />
 </p>
+
 ![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
